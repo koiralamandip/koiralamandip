@@ -1,3 +1,26 @@
-# Hey, It's Mandip, with this handsome face. I Give Your Business the Best Software Transformation.
+Hey, It's `Mandip`, with this ``handsome face`` ![75804017](https://avatars.githubusercontent.com/u/75804017?s=150&v=4)
 
-![my-image 2ca52eed](https://user-images.githubusercontent.com/75804017/204109188-23cf32c6-c6d1-4d6e-ae0c-0c4b142ee276.svg)
+```js
+let portfolio = {
+  "name": "Mandeep Koirala",
+  "work": "I give your business the best Software Transformation"
+  "pros": [
+    "Quality Code",
+    "Teamwork",
+    "Handsome Face",
+    "No Girlfriend"
+  ],
+  "cons": undefined,
+```
+```diff
+- "thumb": https://avatars.githubusercontent.com/u/75804017?s=120&v=4
++ "thumb": https://avatars.githubusercontent.com/u/75804017?s=400&v=4
+```
+```js
+  "portfolioSite": https://itskoiralamandip.web.app
+}
+```
+
+```diff
+! UNDER CONSTRUCTION
+```
